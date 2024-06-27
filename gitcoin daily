@@ -39,7 +39,7 @@ build/ReleaseSASA
 # Dependency directories  
 node_modules/  day27
 jspm_packages/
-
+sas
 # TypeScript v1 declaration files
 typings/
 
