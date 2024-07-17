@@ -94,7 +94,7 @@ asa
 .serverless/
 
 # FuseBox cache
-.fusebox/
+.fusebox/sas
 
 # DynamoDB Local files22
 .dynamodb/
