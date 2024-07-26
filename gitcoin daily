@@ -41,7 +41,7 @@ node_modules/  day27
 jspm_packages/
 
 # TypeScript v1 declaration files56
-typings/
+typings/trtrt
 
 # TypeScript cachedewe
 *.tsbuildinfo
